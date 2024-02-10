@@ -8,7 +8,7 @@ This tutorial will guide you through setting up a Kubernetes cluster using diffe
 
 ### Kind Installation
 
-- [Install Kind](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/main/labs/Kind%20setup.md)
+- [Install Kind](https://github.com/mashby2022/Oreilly-monitoring-labs/blob/main/labs/Kubernetes%20Cluster%20setup/kind%20setup.md)
 
 
 ## kubectl
@@ -17,7 +17,7 @@ This tutorial will guide you through setting up a Kubernetes cluster using diffe
 
 ### kubectl Installation
 
-- [Install kubectl](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/main/labs/kubectl%20install.md)
+- [Install kubectl](https://github.com/mashby2022/Oreilly-monitoring-labs/blob/main/labs/Kubernetes%20Cluster%20setup/kubectl%20install.md)
 
 ## GKE Cluster
 
@@ -25,7 +25,7 @@ This tutorial will guide you through setting up a Kubernetes cluster using diffe
 
 ### Creating a GKE Cluster
 
-- [Create a GKE Cluster](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/main/labs/GKE%20setup.md)
+- [Create a GKE Cluster](https://github.com/mashby2022/Oreilly-monitoring-labs/blob/main/labs/Kubernetes%20Cluster%20setup/GKE%20setup.md)
 
 ## Helm Installation
 
@@ -33,6 +33,6 @@ This tutorial will guide you through setting up a Kubernetes cluster using diffe
 
 ### Installing Helm
 
-- [Install Helm](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/4b62ffa81d214864714aa089d4761de5a479e437/labs/Helm%20install.md)
+- [Install Helm](https://github.com/mashby2022/Oreilly-monitoring-labs/blob/main/labs/Kubernetes%20Cluster%20setup/Helm%20install.md)
 
 
