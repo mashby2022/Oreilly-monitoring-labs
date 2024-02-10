@@ -8,9 +8,9 @@ The target audience for this tutorial is an attendee of the O'Reilly Kubernetes 
 
 ## Labs
 
-* [Kubernetes Cluster Setup](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/tree/main/labs/Kubernetes%20Cluster%20setup)
-* [Botkube Installation](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/main/labs/Botkube%20install/Botkube%20installation.md)
-* [Kubectl errors](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/tree/main/labs/Kubectl%20lab)
-* [Prometheus Setup](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/blob/main/labs/Prometheus/Prometheus%20setup.md)
-* [Building a Grafana Dashboard](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/tree/main/labs/Golang%20Automations%20in%20Multicluster%20environment)
-* [K8sGPT for an automated setup](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/tree/main/labs/GitOps%20Tools)
+* [Kubernetes Cluster Setup]()
+* [Botkube Installation]()
+* [Kubectl errors]()
+* [Prometheus Setup]()
+* [Building a Grafana Dashboard]()
+* [K8sGPT for an automated setup]()
