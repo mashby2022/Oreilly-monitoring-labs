@@ -17,9 +17,9 @@ Follow the steps below to install the necessary libraries for Prometheus monitor
 2. Execute the following commands:
 
 ```bash
+go mod init main
 go get github.com/prometheus/client_golang/prometheus
-go get github.com/prometheus/client_golang/prometheus/promauto
-go get github.com/prometheus/client_golang/prometheus/promhttp
+go install github.com/prometheus/client_golang/prometheus
 ```
 
 #### Task:
